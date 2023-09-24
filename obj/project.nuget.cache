@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FgMRVRKeYji0Wc9MM/a07x6Kv49AKvLjrB8tRnz08zhwUgBDZlUkXkT5g+6vx8uZuT14vt35Nd9kRXcoGLtrFw==",
+  "success": true,
+  "projectFilePath": "/home/matej/dev/c#/ovov_calc/ovov_calc.csproj",
+  "expectedPackageFiles": [
+    "/home/matej/.nuget/packages/microsoft.netcore.app.runtime.win-x64/6.0.13/microsoft.netcore.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "/home/matej/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/6.0.13/microsoft.aspnetcore.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "/home/matej/.nuget/packages/microsoft.netcore.app.host.win-x64/6.0.13/microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
